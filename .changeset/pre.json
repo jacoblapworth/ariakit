@@ -16,6 +16,7 @@
     "popover-state-fit-viewport",
     "popover-state-overlap",
     "popover-state-shift-gutter",
-    "popover-state-slide"
+    "popover-state-slide",
+    "utils-use-store-provider-return-type"
   ]
 }
